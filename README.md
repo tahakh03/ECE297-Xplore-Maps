@@ -28,3 +28,17 @@ For a set of dropoff/pickup points and start/end intersections, our algorithm se
 
 - **Baseline Solution**: We start at each possible depot (starting point) and use a greedy algorithm to travel to the nearest pickup or dropoff point.
 - **Optimization**: From the best "baseline" solution, we incorporated different methods such as Two-opt, Multi-start, Or-opt, and simulated annealing to further optimize our solution.
+
+## Images and Videos
+
+### POI
+
+![POI](https://github.com/tahakh03/ECE297-Xplore-Maps/blob/main/Images%20and%20Videos/POI.png)
+
+### Weather
+
+![Weather](https://github.com/tahakh03/ECE297-Xplore-Maps/blob/main/Images%20and%20Videos/Weather.png)
+
+### Switching Between Cities
+
+
