@@ -41,4 +41,21 @@ For a set of dropoff/pickup points and start/end intersections, our algorithm se
 
 ### Switching Between Cities
 
+![City-Change](https://github.com/tahakh03/ECE297-Xplore-Maps/blob/main/Images%20and%20Videos/City-Change.gif)
+
+### Subway
+
+![Subway](https://github.com/tahakh03/ECE297-Xplore-Maps/blob/main/Images%20and%20Videos/Subway.png)
+
+### Navigation
+
+![Navigation](https://github.com/tahakh03/ECE297-Xplore-Maps/blob/main/Images%20and%20Videos/Navigation.gif)
+
+### Zooming
+
+![Zoom](https://github.com/tahakh03/ECE297-Xplore-Maps/blob/main/Images%20and%20Videos/Zoom.gif)
+
+### Search
+
+![Search](https://github.com/tahakh03/ECE297-Xplore-Maps/blob/main/Images%20and%20Videos/Search.gif)
 
